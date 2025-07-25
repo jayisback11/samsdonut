@@ -20,10 +20,7 @@ function Header() {
                 </h1>
                 <p className="mb-4 text-center text-md-start">
                   At Sam’s Donut, we believe in keeping things simple, sweet,
-                  and made with love. Our journey began with a passion for
-                  fresh, handcrafted donuts and a dream to create a place where
-                  the community could gather, share smiles, and enjoy treats
-                  that warm the heart.
+                  and made with love.
                 </p>
                 <div className="d-flex flex-column flex-sm-row">
                   <MenuBtn />
